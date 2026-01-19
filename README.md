@@ -10,7 +10,7 @@ Un sistema de gestión de reservas desarrollado con Laravel, diseñado para faci
 - **Autenticación**: Laravel Sanctum
 - **Pruebas**: PHPUnit
 
-# Autor: Antony Jampol Aquino Rumualdo
+## Autor: Antony Jampol Aquino Rumualdo
 
 ## Requisitos Previos
 
